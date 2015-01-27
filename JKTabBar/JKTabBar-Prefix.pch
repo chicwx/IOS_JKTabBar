@@ -1,0 +1,27 @@
+//
+//  JKTabBar-Prefix.pch
+//  JKTabBar
+//
+//  Created by dg11185ios on 14/12/3.
+//  Copyright (c) 2014年 dg11185. All rights reserved.
+//
+
+#ifndef JKTabBar_JKTabBar_Prefix_pch
+#define JKTabBar_JKTabBar_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif
+
+//判断系统版本进行适配start
+#define IOS_7 ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0f)
+
+//判断系统版本进行适配start
+#define IOS_8 ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0f)
+
+//颜色和透明度设置
+#define RGBA(r,g,b,a)[UIColor colorWithRed:(float)r/255.0f green:(float)g/255.0f blue:(float)b/255.0f alpha:a]

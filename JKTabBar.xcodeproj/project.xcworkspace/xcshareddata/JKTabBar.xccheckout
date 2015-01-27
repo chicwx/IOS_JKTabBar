@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D99A12E-E3ED-4771-AAC2-7FD99E1500F4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JKTabBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D6D042C72AD600FB05AA35C166846773DEBB276</key>
+		<string>https://git.oschina.net/jikeit/IOS_JKTabBar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JKTabBar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D6D042C72AD600FB05AA35C166846773DEBB276</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/jikeit/IOS_JKTabBar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D6D042C72AD600FB05AA35C166846773DEBB276</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D6D042C72AD600FB05AA35C166846773DEBB276</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS_JKTabBar_developer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
